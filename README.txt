@@ -1,0 +1,1 @@
+samtools view input.bam "Chr10:18000-45500" > output.bam
